@@ -1,0 +1,20 @@
+{
+  "ownerNumber": ["6283861623360@s.whatsapp.net"],
+  "ownerName": ["ZyrexxOfc"],
+  "botName": "Nekopoi-MD",
+  "sessionName": "nekopoi",
+  "pathimg": "./image/nekopoi.jpg",
+  "FakeNya": "© ZyrexxOfc",
+  
+  "apikey": {
+  "XteamKey": "YOUR_APIKEY",
+  "LeysKey": "IkyOgiwara"
+  },
+  
+  "gamewaktu": 90,
+  "limitCount": 25,
+  "gcount": {
+	"prem": 35,
+	"user": 15
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "wait": "*Bentar*",
+  "error": {
+    "Iv": "*Si goblok*",
+    "api": "*Bentar bang lagi eror*"
+  },
+  "OnlyGrup": "Join grup ngap",
+  "OnlyPM": "Chat gw aja",
+  "GrupAdmin": "Emang lu admin",
+  "BotAdmin": "Jadiin gw admin napa",
+  "OnlyOwner": "Lu owner",
+  "OnlyPrem": "Beli premium dulu sana"
+}
